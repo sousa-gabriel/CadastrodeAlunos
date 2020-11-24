@@ -19,8 +19,8 @@
       "nome": "Juliana",
       "sobrenome": "Rocha",
       "professor": {
-        "id": 2,
-        "nome": "'Lucas"
+        "id": 1,
+        "nome": "vinicius"
       }
     },
     {
@@ -33,13 +33,14 @@
       }
     },
     {
-      "nome": "Patricia Maria",
-      "sobrenome": "",
+      "id": 4,
+      "nome": "Patricia ",
+      "sobrenome": "Maria",
+      "dataNasc": "01/11/1991",
       "professor": {
-        "id": 1,
-        "nome": "vinicius"
-      },
-      "id": 4
+        "id": 2,
+        "nome": "Lucas"
+      }
     },
     {
       "nome": "Malcon",
