@@ -22,3 +22,8 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+<!-- iniciar o servidor fac (json-server banco.json) -->
+
+<!-- iniciar o projeto Vue (yarn serve) -->
